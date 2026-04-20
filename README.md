@@ -3,6 +3,8 @@
 1 step
 ------
   Open Xampp shell
+  or
+  Win + R → cmd  → cd C:\xampp\mysql\bin
 
 2 step
 ------

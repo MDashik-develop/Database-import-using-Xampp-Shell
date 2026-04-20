@@ -1,28 +1,25 @@
 # Database-import-using-Xampp-Shell
 
-1 step
+1 step - Open Xampp shell
 ------
-  Open Xampp shell
+  
   <br/>
   or
   <br/>
   Win + R → cmd  → cd C:\xampp\mysql\bin
 
-2 step
+2 step - Login in your MYSQL 
 ------
-  //Login in your MYSQL 
   <br/>
     mysql -u root -p
     
-3 step
+3 step - Choose your Database
 ------
-  //Choose your Database
   <br/>
    use database_name
 
-4 step
+4 step - Import Database
 ------
-  //Import Database
   <br/>
    source ‪C:\me\MdAshikurRahman\demo\example.sql
 

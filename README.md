@@ -8,7 +8,8 @@
 
 2 step
 ------
-  //Login in your MYSQL
+  //Login in your MYSQL 
+  <br/>
     mysql -u root -p
     
 3 step

@@ -3,7 +3,9 @@
 1 step
 ------
   Open Xampp shell
+  <br/>
   or
+  <br/>
   Win + R → cmd  → cd C:\xampp\mysql\bin
 
 2 step
@@ -15,11 +17,13 @@
 3 step
 ------
   //Choose your Database
+  <br/>
    use database_name
 
 4 step
 ------
   //Import Database
+  <br/>
    source ‪C:\me\MdAshikurRahman\demo\example.sql
 
 
